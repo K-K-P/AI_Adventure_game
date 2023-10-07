@@ -8,3 +8,4 @@ Based on these information, the model starts the game and creates its logic.
 Whole application is built based on Cassandra vector DB for some educational purposes. The core idea of this project
 is to take a closer look to ML-aimed vector DB and - so called - "prompt engineering" - all of this wrapped with Python code.
 
+All required libraries can be found in "requirements.txt" file.
